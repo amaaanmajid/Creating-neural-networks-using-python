@@ -1,7 +1,1 @@
-print('hello')
-
-print('world')
-
-print('worldaa')
-
-print('worldaa')
+print('Hello world')
